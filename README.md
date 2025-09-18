@@ -192,7 +192,7 @@ tlist: for actions, defines the target list name (where the output will go)
 label: the atom label (for example for input fields will be used as prompt)
 info: used to show information about the atom
 
-Lists, Atoms, and Actions
+### Lists, Atoms, and Actions
 
 The declarative part of the components for "Flow" and "CSS" declarations uses the "List" and "Atom" constructs that are reminiscent of the LISP programming language. The definition is made with two main constructs:
 
