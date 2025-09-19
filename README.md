@@ -6,7 +6,7 @@ Once you develop your application, you can copy all the component JavaScript fil
 
 The entire SA app is built with components called Adaptive Mobile Components (more on this below). The initial loading is done via a call to "SA.loadComponent()" call in index.html to load the "Main" component. Once loaded, the entire application is constructed based on other referenced components (as shown in the diagram below).
 
-![Simpler app architecture](https://simplerapps.appspot.com/app/res/str/img/docs-app-comps.png "Simpler app architecture")
+<img src="https://simplerapps.appspot.com/app/res/str/img/docs-app-comps.png" alt="drawing" width="600"/>
 
 ### What are Adaptive Mobile Components?
 
